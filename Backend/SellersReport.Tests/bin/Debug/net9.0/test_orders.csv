@@ -1,0 +1,5 @@
+Seller,Product,Price,OrderDate,Branch
+John Doe,Product A,200.00,2024-01-15,Branch 1
+John Doe,Product C,50.00,2024-01-18,Branch 1
+Jane Smith,Product B,300.00,2024-01-20,Branch 1
+Mike Brown,Product D,150.00,2024-02-05,Branch 1

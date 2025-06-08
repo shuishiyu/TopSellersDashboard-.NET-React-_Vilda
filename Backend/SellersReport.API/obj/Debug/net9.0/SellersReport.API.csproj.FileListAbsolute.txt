@@ -1,0 +1,88 @@
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.csproj.AssemblyReference.cache
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.AssemblyInfoInputs.cache
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.AssemblyInfo.cs
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.csproj.CoreCompileInputs.cache
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cs
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cache
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\appsettings.Development.json
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\appsettings.json
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\SellersReport.API.staticwebassets.endpoints.json
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\SellersReport.API.exe
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\SellersReport.API.deps.json
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\SellersReport.API.runtimeconfig.json
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\SellersReport.API.dll
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\SellersReport.API.pdb
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\CsvHelper.dll
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\SellersReport\SellersReport.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\scopedcss\bundle\SellersReport.API.styles.css
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\staticwebassets.development.json
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersR.B3BB42D8.Up2Date
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.dll
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\refint\SellersReport.API.dll
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.pdb
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\SellersReport.API.genruntimeconfig.cache
+E:\SellersReport\SellersReport.API\obj\Debug\net9.0\ref\SellersReport.API.dll
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\appsettings.Development.json
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\appsettings.json
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.staticwebassets.endpoints.json
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.exe
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.deps.json
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.runtimeconfig.json
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.dll
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.pdb
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\CsvHelper.dll
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.csproj.AssemblyReference.cache
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.AssemblyInfoInputs.cache
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.AssemblyInfo.cs
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.csproj.CoreCompileInputs.cache
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cs
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cache
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\scopedcss\bundle\SellersReport.API.styles.css
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.development.json
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersR.B3BB42D8.Up2Date
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.dll
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\refint\SellersReport.API.dll
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.pdb
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.genruntimeconfig.cache
+E:\TMO task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\ref\SellersReport.API.dll
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\appsettings.Development.json
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\appsettings.json
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.staticwebassets.endpoints.json
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.exe
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.deps.json
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.runtimeconfig.json
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.dll
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.pdb
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\CsvHelper.dll
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.csproj.AssemblyReference.cache
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.AssemblyInfoInputs.cache
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.AssemblyInfo.cs
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.csproj.CoreCompileInputs.cache
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cs
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cache
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\scopedcss\bundle\SellersReport.API.styles.css
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.development.json
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersR.B3BB42D8.Up2Date
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.dll
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\refint\SellersReport.API.dll
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.pdb
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.genruntimeconfig.cache
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\ref\SellersReport.API.dll
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
