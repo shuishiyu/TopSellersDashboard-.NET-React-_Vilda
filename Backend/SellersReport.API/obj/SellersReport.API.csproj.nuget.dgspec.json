@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TMO_task_TopSellersReport_Vilda\\Backend\\SellersReport.API\\SellersReport.API.csproj": {}
+    "E:\\TMO _Task_for_github\\TopSellers Dashboard (.NET + React)_Vilda\\Backend\\SellersReport.API\\SellersReport.API.csproj": {}
   },
   "projects": {
-    "E:\\TMO_task_TopSellersReport_Vilda\\Backend\\SellersReport.API\\SellersReport.API.csproj": {
+    "E:\\TMO _Task_for_github\\TopSellers Dashboard (.NET + React)_Vilda\\Backend\\SellersReport.API\\SellersReport.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TMO_task_TopSellersReport_Vilda\\Backend\\SellersReport.API\\SellersReport.API.csproj",
+        "projectUniqueName": "E:\\TMO _Task_for_github\\TopSellers Dashboard (.NET + React)_Vilda\\Backend\\SellersReport.API\\SellersReport.API.csproj",
         "projectName": "SellersReport.API",
-        "projectPath": "E:\\TMO_task_TopSellersReport_Vilda\\Backend\\SellersReport.API\\SellersReport.API.csproj",
+        "projectPath": "E:\\TMO _Task_for_github\\TopSellers Dashboard (.NET + React)_Vilda\\Backend\\SellersReport.API\\SellersReport.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\TMO_task_TopSellersReport_Vilda\\Backend\\SellersReport.API\\obj\\",
+        "outputPath": "E:\\TMO _Task_for_github\\TopSellers Dashboard (.NET + React)_Vilda\\Backend\\SellersReport.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

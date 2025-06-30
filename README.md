@@ -1,10 +1,10 @@
-# TMO Technical Task
+
 ## Overview
 This is a full-stack application that displays the top-performing sellers for each month, filtered by branch.
 
 ## Project Structure
 
-TMO_task_TopSellersReport_Vilda/
+TopSellers Dashboard (.NET + React)_Vilda/
 ├── Backend/
 │   ├── SellersReport.API/ # .NET Core backend with clean architecture
 │   │   ├── Controllers/
@@ -40,9 +40,9 @@ Frontend/sellers-report-frontend/
 - Frontend in React
 
 ### How to Run
-1. `dotnet run` in the backend folder (cd /d "E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API")
+1. `dotnet run` in the backend folder (cd /d "\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API")
 
-2. `npm start` in the frontend folder (cd /d "E:\TMO_task_TopSellersReport_Vilda\Frontend\sellers-report-frontend")
+2. `npm start` in the frontend folder (cd /d "\TopSellers Dashboard (.NET + React)_Vilda\Frontend\sellers-report-frontend")
 
 
 

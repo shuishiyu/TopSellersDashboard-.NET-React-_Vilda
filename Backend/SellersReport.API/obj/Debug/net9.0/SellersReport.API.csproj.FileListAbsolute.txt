@@ -74,6 +74,7 @@ E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\Se
 E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.csproj.CoreCompileInputs.cache
 E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cs
 E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cache
+E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.sourcelink.json
 E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\scopedcss\bundle\SellersReport.API.styles.css
 E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json
 E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json.cache
@@ -85,4 +86,33 @@ E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\re
 E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.pdb
 E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.genruntimeconfig.cache
 E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\ref\SellersReport.API.dll
-E:\TMO_task_TopSellersReport_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\appsettings.Development.json
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\appsettings.json
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.staticwebassets.endpoints.json
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.exe
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.deps.json
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.runtimeconfig.json
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.dll
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\SellersReport.API.pdb
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\CsvHelper.dll
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.csproj.AssemblyReference.cache
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.AssemblyInfoInputs.cache
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.AssemblyInfo.cs
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.csproj.CoreCompileInputs.cache
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cs
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.MvcApplicationPartsAssemblyInfo.cache
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.sourcelink.json
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\scopedcss\bundle\SellersReport.API.styles.css
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.development.json
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersR.B3BB42D8.Up2Date
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.dll
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\refint\SellersReport.API.dll
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.pdb
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\SellersReport.API.genruntimeconfig.cache
+E:\TMO _Task_for_github\TopSellers Dashboard (.NET + React)_Vilda\Backend\SellersReport.API\obj\Debug\net9.0\ref\SellersReport.API.dll
